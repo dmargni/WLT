@@ -120,7 +120,7 @@ In the context of cheetah and leopard detection, feature maps play a crucial rol
 
 [Filters](https://colab.research.google.com/drive/19z5zCgsF2AckH3oDRpenaArK6cz2htcD#scrollTo=mQb-EZfpq-N8)
 
-# SPM in order to detect movement
+# SPM is able to identify poses
 
 The **Simple Pose Machine** is a model employed for human pose estimation within the domains of computer vision and deep learning. Pose estimation encompasses the task of identifying and localizing key body joints or keypoints in an image or video. The overarching objective is to deduce the positions of crucial body parts, including the head, shoulders, elbows, wrists, hips, knees, and ankles.
 
