@@ -125,11 +125,7 @@ In the context of cheetah and leopard detection, feature maps play a crucial rol
 
 ![download (2)](https://github.com/dmargni/WLT/assets/142944606/382b9180-d555-46e7-aabd-c9b2bf2a8a75)
 
-
-
-![gif](https://github.com/dmargni/WLT/assets/142944606/97cd6767-3ed5-410b-a191-381a5d265c1a0)
-
-
+![download (1)](https://github.com/dmargni/WLT/assets/142944606/95e5aeed-ab45-4a2f-90b3-5aaed34c73c6)
 
 [SPM](https://colab.research.google.com/drive/14_s2r56w_aT36364h4lTn-YsEXVfEJCh#scrollTo=VHmTwACwFW-v)
 
