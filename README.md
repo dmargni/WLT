@@ -52,7 +52,7 @@ Ensuring genetic diversity is vital for the long-term health and adaptability of
   
 ![1_P0hday68KcoQk3y8U_ddVg](https://github.com/dmargni/WLT/assets/142944606/81989fbe-7b21-4bc2-b1c3-ecd89a9a0545)
 
-![1_P0hday68KcoQk3y8U_ddVg](https://github.com/dmargni/WLT/assets/142944606/bbd1770d-c2b0-4f04-9277-7cd4f71a3e18)
+![8869249_orig](https://github.com/dmargni/WLT/assets/142944606/33ce1076-90ea-472f-82fa-0e8d63d47671)
 
 
 # Differentiating Cheetahs and Leopards 🕵🏼‍♀
