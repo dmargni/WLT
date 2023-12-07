@@ -69,7 +69,45 @@ Thanks to advancements in deep learning Wildlife Learning Technology (WLT) is no
 
 # AlexNet in order to detect 
 
+AlexNet, a pioneering convolutional neural network (CNN), secured victory in the 2012 ImageNet Large Scale Visual Recognition Challenge. Created by Alex Krizhevsky, Ilya Sutskever, and Geoffrey Hinton, AlexNet marked a breakthrough in deep learning for image classification. This summary highlights key features:
 
+## Features:
+
+1. **Architecture:**
+   - Eight layers, including five convolutional and three fully connected layers.
+   - Convolutional layers followed by max-pooling for non-linearity and spatial reduction.
+
+2. **Activation:**
+   - Rectified Linear Unit (ReLU) used after each layer for non-linearity.
+
+3. **Normalization:**
+   - Local Response Normalization (LRN) applied in initial layers to enhance generalization.
+
+4. **Regularization:**
+   - Dropout in fully connected layers to prevent overfitting.
+
+5. **Data Augmentation:**
+   - Techniques like random cropping and flipping employed for better generalization.
+
+## Differentiating Cheetahs and Leopards:
+
+AlexNet excels in distinguishing cheetahs and leopards:
+
+1. **Feature Extraction:**
+   - Convolutional layers identify patterns, textures, and shapes distinctive to each species.
+
+2. **Learning Features:**
+   - AlexNet learns discriminative features during training, recognizing unique spots and coat patterns.
+
+3. **Classification:**
+   - Fully connected layers classify images based on learned features, assigning probabilities to each category.
+
+4. **Fine-Tuning:**
+   - Fine-tuning on a specific dataset optimizes AlexNet for the cheetah vs. leopard task.
+
+Leveraging AlexNet's capabilities allows precise differentiation between these big cat species.
+
+[AlexNet](https://colab.research.google.com/drive/1_mpZhC_9GDFmjIoAXcNa0t6rIwbCSpwm#scrollTo=uzRsuDek9Fve)
 
 
 
