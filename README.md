@@ -42,7 +42,6 @@ Combating illegal hunting and the trade of cheetahs and leopards is crucial to h
 - **Increased Surveillance:** Deploying patrols, technology, and surveillance to monitor and protect areas with high concentrations of these big cats.
 - **Legislation and Enforcement:** Strengthening laws against poaching and illegal wildlife trade, and enforcing penalties for offenders.
 
-
 ## Genetic Diversity
 
 Ensuring genetic diversity is vital for the long-term health and adaptability of cheetah and leopard populations.
@@ -51,7 +50,11 @@ Ensuring genetic diversity is vital for the long-term health and adaptability of
 - **Breeding Programs:** Implementing managed breeding programs in captivity to maintain genetic diversity and prevent inbreeding.
 - **Translocation:** Introducing individuals from one population to another to increase genetic diversity and strengthen overall resilience.
 
-# What WLT is able to differenciate
+
+# Differentiating Cheetahs and Leopards 🕵🏼‍♀
+
+Thanks to advancements in deep learning Wildlife Learning Technology (WLT) is now equipped with the capability to differentiate between cheetahs and leopards. This is a significant breakthrough in wildlife conservation, as it allows for more accurate monitoring and protection measures tailored to the specific needs of these endangered big cats
+
 
 ![download](https://github.com/dmargni/WLT/assets/142944606/6674d0b8-6b52-4540-9030-0e60ce4f368c)
 
@@ -59,6 +62,10 @@ Ensuring genetic diversity is vital for the long-term health and adaptability of
 
 
 [Data Set](https://docs.google.com/presentation/d/105TqOuTuxMNb19v4iIguzxp9lksv0OTVNPyJeiU8TMs/edit#slide=id.g206f8279a60_0_0)
+
+# AlexNet in order to detect
+
+
 
 
 
