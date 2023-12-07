@@ -124,6 +124,8 @@ In the context of cheetah and leopard detection, feature maps play a crucial rol
 
 The **Simple Pose Machine** is a model employed for human pose estimation within the domains of computer vision and deep learning. Pose estimation encompasses the task of identifying and localizing key body joints or keypoints in an image or video. The overarching objective is to deduce the positions of crucial body parts, including the head, shoulders, elbows, wrists, hips, knees, and ankles.
 
+In this case it is designed in order to detect key feature in cheetas and leopard running. Since they are very fast animals and it's very hard to recognize them, SPM is helful in detecting the key features of the running if these two cats.
+
 ![download (2)](https://github.com/dmargni/WLT/assets/142944606/382b9180-d555-46e7-aabd-c9b2bf2a8a75)
 
 ![download (1)](https://github.com/dmargni/WLT/assets/142944606/95e5aeed-ab45-4a2f-90b3-5aaed34c73c6)
