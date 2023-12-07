@@ -65,7 +65,7 @@ Thanks to advancements in deep learning Wildlife Learning Technology (WLT) is no
 ![download (1)](https://github.com/dmargni/WLT/assets/142944606/62c94aab-70f6-46c4-985d-14e4eabebe5c)
 
 
-[Data Set](https://docs.google.com/presentation/d/105TqOuTuxMNb19v4iIguzxp9lksv0OTVNPyJeiU8TMs/edit#slide=id.g206f8279a60_0_0)
+[Data Set](https://docs.google.com/presentation/d/1ZXgAwMkZ5psxx5oAEgRVIGIDhpJwkwVEdEmg_vIIRdw/edit#slide=id.g1e5fe555a3f_0_2)
 
 # AlexNet in order to detect 
 
