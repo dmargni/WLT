@@ -49,6 +49,10 @@ Ensuring genetic diversity is vital for the long-term health and adaptability of
 ### Examples:
 - **Breeding Programs:** Implementing managed breeding programs in captivity to maintain genetic diversity and prevent inbreeding.
 - **Translocation:** Introducing individuals from one population to another to increase genetic diversity and strengthen overall resilience.
+  
+![1_P0hday68KcoQk3y8U_ddVg](https://github.com/dmargni/WLT/assets/142944606/81989fbe-7b21-4bc2-b1c3-ecd89a9a0545)
+
+![1_P0hday68KcoQk3y8U_ddVg](https://github.com/dmargni/WLT/assets/142944606/bbd1770d-c2b0-4f04-9277-7cd4f71a3e18)
 
 
 # Differentiating Cheetahs and Leopards 🕵🏼‍♀
