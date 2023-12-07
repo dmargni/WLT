@@ -67,7 +67,7 @@ Thanks to advancements in deep learning Wildlife Learning Technology (WLT) is no
 
 [Data Set](https://docs.google.com/presentation/d/105TqOuTuxMNb19v4iIguzxp9lksv0OTVNPyJeiU8TMs/edit#slide=id.g206f8279a60_0_0)
 
-# AlexNet in order to detect
+# AlexNet in order to detect 
 
 
 
