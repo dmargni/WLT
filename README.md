@@ -120,4 +120,12 @@ In the context of cheetah and leopard detection, feature maps play a crucial rol
 
 [Filters](https://colab.research.google.com/drive/19z5zCgsF2AckH3oDRpenaArK6cz2htcD#scrollTo=mQb-EZfpq-N8)
 
+# SPM in order to detect movement
+
+
+![download (2)](https://github.com/dmargni/WLT/assets/142944606/382b9180-d555-46e7-aabd-c9b2bf2a8a75)
+
+![download (2)](https://github.com/dmargni/WLT/assets/142944606/6f7f7877-f542-4822-93ce-fe9dcdf6e895)
+
+[SPM](https://colab.research.google.com/drive/14_s2r56w_aT36364h4lTn-YsEXVfEJCh#scrollTo=VHmTwACwFW-v)
 
